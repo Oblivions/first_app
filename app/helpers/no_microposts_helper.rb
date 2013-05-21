@@ -1,0 +1,2 @@
+module NoMicropostsHelper
+end

@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 FirstApp::Application.routes.draw do
+=======
+Hello::Application.routes.draw do  
+resources :users
+resources :microposts
+resources :macroposts
+
+>>>>>>> 2400ea81aafe048426fa21323e25ab69ed5cb9da
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
